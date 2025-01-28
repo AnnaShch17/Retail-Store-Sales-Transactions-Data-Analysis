@@ -49,8 +49,7 @@ During the analysis of the retail store sales transactions, the following questi
 3.	What is the average unit price per product category? 
 4.	What is the total revenue and total quantity of items sold, and the total number of transactions?
 5.	What type of customers (repeat customers or one-time buyers) contributes the most to the revenue?
-6.	What is the correlation between product price and revenue?
-7.	Are there seasonal impacts on customer purchasing behavior?
+6.	Are there seasonal impacts on customer purchasing behavior?
 
 
 ## Results and Findings
@@ -85,7 +84,15 @@ There is no information which product groups and products each SKU Category and 
 
 #### Customer Performance Insights
 
-Analysis shows that 95.2% of customers are repeat buyers, contributing about 95% of total revenue, while the other 4.8% are one-time shoppers. Repeat customers completed about 125.000 transactions, and one-time buyers – about 6.000 transactions. However, the average amount spent in each transaction of repeat buyers (€12.01) is close to this indicator of one-time buyers (€11.45).
+Analysis shows that 95.2% of customers are repeat buyers, contributing about 95% of total revenue, while the other 4.8% are one-time shoppers. Repeat customers completed about 125.000 transactions, and one-time buyers – about 6.000 transactions.
+
+![Number of Transactions by Customer Type](https://github.com/user-attachments/assets/ea9ed320-c72f-4f98-bbec-0171f0ea1854)
+
+
+However, the average amount spent in each transaction of repeat buyers (€12.01) is close to this indicator of one-time buyers (€11.45).
+
+![Average Amount Spent per Transaction by Customer Type](https://github.com/user-attachments/assets/8fa44f82-399b-406b-95bb-2ca572f71422)
+
 
 This indicates that the store is successful at retaining customers and building lasting relationships. To further strengthen customer retention, it will be useful to invest into personalization efforts, such as personalized product recommendations, exclusive deals or discounts, or birthday rewards as well as introducing tailored upsell and cross-sell offers based on past purchases.
 

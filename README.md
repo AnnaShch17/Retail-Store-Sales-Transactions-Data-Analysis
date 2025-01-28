@@ -44,14 +44,13 @@ During the initial data preparation phase, I completed the following tasks:
 
 During the analysis of the retail store sales transactions, the following questions were considered:
 
-1.	What is the total revenue?
-2.	What are the total sales over different months?
-3.	Which products and product categories generate the most profit?
-4.	What is the average unit price? 
-5.	What is the total revenue and total quantity of items sold, and the total number of transactions?
-6.	What type of customers (repeat customers or one-time buyers) contributes the most to the revenue?
-7.	What is the correlation between product price and revenue?
-8.	Are there seasonal impacts on customer purchasing behavior?
+1.	What are the total sales over different months?
+2.	Which products and product categories generate the most profit?
+3.	What is the average unit price per product category? 
+4.	What is the total revenue and total quantity of items sold, and the total number of transactions?
+5.	What type of customers (repeat customers or one-time buyers) contributes the most to the revenue?
+6.	What is the correlation between product price and revenue?
+7.	Are there seasonal impacts on customer purchasing behavior?
 
 
 ## Results and Findings
@@ -72,8 +71,13 @@ By analyzing seasonal trends, similar campaigns can be planned for future season
 
 #### Product Performance Insights
 
-Top 20 SKU Categories (out of total number of SKU Categories equals 187) provide 55 % of revenue. The average unit price per these SKU Categories ranges from €34 to €129.
-Number of unique SKU/number of products – 5239. 
+Top 20 SKU Categories (out of total number of SKU Categories equals 187) provide 55 % of revenue. 
+
+![Total Revenue by SKU Category](https://github.com/user-attachments/assets/ea8a9434-095c-4f05-842e-d149198c8ba9)
+
+
+The average unit price per these SKU Categories ranges from €34 to €129.
+Number of unique products (SKU) is 5239. 
 
 42% of overall sales come from a top 200 of top-selling products, while 58% of the inventory sees little movement. There is potential to improve inventory management by reducing low performing items and concentrating on restocking high-demand products to increase profitability. Also, cross-selling opportunities or bundle offerings around top selling products might be explored to boost average transaction value.
 
@@ -85,9 +89,9 @@ Analysis shows that 95.2% of customers are repeat buyers, contributing about 95%
 
 This indicates that the store is successful at retaining customers and building lasting relationships. To further strengthen customer retention, it will be useful to invest into personalization efforts, such as personalized product recommendations, exclusive deals or discounts, or birthday rewards as well as introducing tailored upsell and cross-sell offers based on past purchases.
 
-However, over relying on the repeat customers can present risks, such as market saturation or reduced customer growth if the customer base becomes too homogenous. To avoid that, diversify the customer base by targeting new customers or exploring new market segments to reduce dependency on existing customers, and ensure long-term growth.
+However, overrelying on the repeat customers can present risks, such as market saturation or reduced customer growth if the customer base becomes too homogenous. To avoid that, diversifying of the customer base can be used by targeting new customers or exploring new market segments to reduce dependency on existing customers, and ensure long-term growth.
 
-Although one-time shoppers represent a small segment of the customer base and generate limited amount to overall revenue, it is a good idea to implement strategies to convert one-time buyers into repeat customers. This could be done by sending follow-up emails, offers to encourage a second purchase, or an incentive for signing up for a loyalty program.
+Although one-time shoppers represent a small segment of the customer base and generate limited amount of overall revenue, it is a good idea to implement strategies to convert one-time buyers into repeat customers. This could be done by sending follow-up emails, offers to encourage a second purchase, or an incentive for signing up for a loyalty program.
 
 
 

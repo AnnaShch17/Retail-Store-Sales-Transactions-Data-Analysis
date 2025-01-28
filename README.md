@@ -104,11 +104,11 @@ Although one-time shoppers represent a small segment of the customer base and ge
 
 ## Data Visualization
 
+The dashboard includes a date filter that allows to sort the data by specific dates. There are three bar charts visualizing total revenue by year and months, total revenue by top 20 SKU Categories and total revenue by top 10 products. Also, a pie chart showing number of transactions by repeat customers and one-time buyers was created.
+
+![Sales Analysis Dashboard](https://github.com/user-attachments/assets/fe1a4232-6861-4234-abff-4a934b8decb7)
 
 
 
 
-## Challenges in Analysis
-
-New DAX measures (such as ) were created to….
 

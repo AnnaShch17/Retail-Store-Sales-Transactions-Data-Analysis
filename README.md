@@ -60,7 +60,10 @@ Analysis of the results indicates the following.
 
 #### Sales Performance Insights 
 
-The total revenue generated from all transactions in 2016 is/was €1.58M. The most profitable month is December with €152K in sales, followed by May with €143K, September and October with €141K each (see graph). The spike in revenues during these four months might be related to the holidays as well as promotion campaigns - December 24-26 (Christmas Eve, Christmas Day, St. |Stephens Day, respectively), May 1 (Labour Day) and 8 (end of WW2), September 1 (Constitution Day) and 15 (Day of Our Lady of Sorrows), no holidays in October (may be, customers bought stuff for November 1 (All Saints’ Day) and 17 (Day of Freedom and Democracy) holidays). 
+The total revenue generated from all transactions in 2016 was €1.58M. The most profitable month was December with €152K in sales, followed by May with €143K, and September and October with €141K each (see graph below). The spike in revenues during these four months might be related to the holidays as well as promotion campaigns - December 24-26 (Christmas Eve, Christmas Day, St. Stephens Day, respectively), May 1 (Labour Day) and 8 (end of WW2), September 1 (Constitution Day) and 15 (Day of Our Lady of Sorrows), no holidays in October (may be, customers bought stuff for November 1 (All Saints’ Day) and 17 (Day of Freedom and Democracy) holidays). 
+
+![Total Revenue by Year and Month](https://github.com/user-attachments/assets/8cde7212-b62b-43a3-9718-81a1d8d133fa)
+
 
 Sales started to slowly increase in January, reached their peak in May, then sales declined during the summer months. From September onward, there was a recovery, with the highest sales recorded in December (with a 30% rise in total sales compared to other months).
 
